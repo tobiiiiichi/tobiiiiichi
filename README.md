@@ -44,6 +44,7 @@
 ## 📮 联系我
 
 <p>
+  <a href="https://tobiiiiichi.github.io"><img src="https://img.shields.io/badge/Website-tobiiiiichi.github.io-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="个人主页"/></a>
   <a href="https://github.com/tobiiiiichi"><img src="https://img.shields.io/badge/GitHub-tobiiiiichi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:tobiiiiichi@outlook.com"><img src="https://img.shields.io/badge/Email-tobiiiiichi@outlook.com-0E75B6?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
 </p>
